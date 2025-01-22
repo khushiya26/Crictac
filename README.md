@@ -4,7 +4,7 @@ This project aims to identify the optimal final 11 players for a cricket team ba
 Using data scraped from ESPN Cricket, it leverages Power BI for visualization and DAX functions for advanced analytical measures. 
 The result is an intuitive and insightful dashboard to support data-driven team selection.
 
-#Features
+# Features
 * Data Collection: Sourced player statistics and performance data from ESPN Cricket.
 * Data Analysis: Used DAX functions to calculate key performance indicators and measures.
 * Visualization: Created dynamic and interactive dashboards using Power BI to compare player performance.
