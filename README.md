@@ -1,16 +1,16 @@
 # Crictac-Cricket Data Analysis
 
 This project aims to identify the optimal final 11 players for a cricket team based on historical data. 
-Using data scraped from ESPN Cricket, it leverages Power BI for visualization and DAX functions for advanced analytical measures. 
+Using data scraped from ESPN Cricinfo, it leverages Power BI for visualization and DAX functions for advanced analytical measures. 
 The result is an intuitive and insightful dashboard to support data-driven team selection.
 
 # Features
-* Data Collection: Sourced player statistics and performance data from ESPN Cricket.
+* Data Collection: Sourced player statistics and performance data from ESPN Cricinfo.
 * Data Analysis: Used DAX functions to calculate key performance indicators and measures.
 * Visualization: Created dynamic and interactive dashboards using Power BI to compare player performance.
 * Insights: Identified the best players for each role in the team using various statistical analyses.
 # Tools and Technologies
-* Data Source: ESPN Cricket
+* Data Source: ESPN Cricinfo
 * Visualization: Power BI
 * Scripting: DAX (Data Analysis Expressions)
 # How to Use
@@ -31,9 +31,9 @@ Aggregation and filtering to derive meaningful insights from raw data.
 * Add more advanced visualizations and filters.
 
 
-License
+# License
 This project is licensed under the MIT License.
 
-Acknowledgments
-ESPN Cricket for providing detailed player data.
-Power BI community for tutorials and guidance.
+# Acknowledgments
+* ESPN Cricinfo for providing detailed player data.
+* Power BI community for tutorials and guidance.
